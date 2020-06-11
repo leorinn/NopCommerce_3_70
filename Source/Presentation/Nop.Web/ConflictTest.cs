@@ -11,7 +11,8 @@ namespace Nop.Web
         {
             int a = 30;
             int b = 40;
-            int toplam = a + b;
+            int toplami = a + b;
+           
         }
 
     }
