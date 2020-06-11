@@ -9,9 +9,9 @@ namespace Nop.Web
     {
         public void deneme ()
         {
-            int a = 5;
-            int b = 4;
-            int sum = a + b;
+            int a = 30;
+            int b = 40;
+            int toplam = a + b;
         }
 
     }
