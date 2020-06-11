@@ -222,7 +222,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConflictTest.cs" />
     <Compile Include="Controllers\BasePublicController.cs" />
     <Compile Include="Controllers\BoardsController.cs" />
     <Compile Include="Controllers\BackInStockSubscriptionController.cs" />
